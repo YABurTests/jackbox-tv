@@ -3425,7 +3425,7 @@
                             return Promise.all([n.e(2529), n.e(5853), n.e(4948)]).then(n.bind(n, 14948))
                         }))
                     }, {
-                        path: "/:roomCode([A-Za-z]{4})",
+                        path: "/:roomCode([A-Za-z]{5})",
                         component: () => E(void 0, void 0, void 0, (function*() {
                             return Promise.all([n.e(2529), n.e(5853), n.e(4948)]).then(n.bind(n, 14948))
                         }))
